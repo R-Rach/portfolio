@@ -1,15 +1,11 @@
-import { ReactComponent as Logo } from './logo.svg';
+import LandingPage from './components/LandingPage/LandingPage';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Logo className="App-logo"/>
-        <p>
-          Hello my name is <code><strong>Rachit Rathore</strong></code>.
-        </p>
-      </header>
+      <LandingPage />
     </div>
   );
 }
