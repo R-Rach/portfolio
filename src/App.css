@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  padding: 40px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,25 +15,44 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #282c34;
 }
 
-.App-link {
-  color: #61dafb;
+#coder{
+  animation: dash 10s linear forwards;
+  stroke-dasharray: 5000;
+  stroke-dashoffset: 5000;
 }
-
-@keyframes App-logo-spin {
+@keyframes dash {
+  to {
+    stroke-dashoffset: 10;
+  }
+}
+#colors{
+  opacity: 0;
+  animation: colorIn 5s 8s ease-out forwards;
+}
+@keyframes colorIn {
+  from {opacity:0;}
+  to {opacity: 1;}
+}
+@media only screen and (max-width: 600px) {
+    svg {
+        width: 100%;
+    }
+}
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
