@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/R-Rach/r-rach-portfolio/static/css/main.87a32c40.chunk.css",
-    "main.js": "/R-Rach/r-rach-portfolio/static/js/main.88384c2e.chunk.js",
-    "main.js.map": "/R-Rach/r-rach-portfolio/static/js/main.88384c2e.chunk.js.map",
-    "runtime-main.js": "/R-Rach/r-rach-portfolio/static/js/runtime-main.b84065fb.js",
-    "runtime-main.js.map": "/R-Rach/r-rach-portfolio/static/js/runtime-main.b84065fb.js.map",
-    "static/js/2.f8eaa150.chunk.js": "/R-Rach/r-rach-portfolio/static/js/2.f8eaa150.chunk.js",
-    "static/js/2.f8eaa150.chunk.js.map": "/R-Rach/r-rach-portfolio/static/js/2.f8eaa150.chunk.js.map",
-    "static/js/3.0aeb825d.chunk.js": "/R-Rach/r-rach-portfolio/static/js/3.0aeb825d.chunk.js",
-    "static/js/3.0aeb825d.chunk.js.map": "/R-Rach/r-rach-portfolio/static/js/3.0aeb825d.chunk.js.map",
-    "index.html": "/R-Rach/r-rach-portfolio/index.html",
-    "static/css/main.87a32c40.chunk.css.map": "/R-Rach/r-rach-portfolio/static/css/main.87a32c40.chunk.css.map",
-    "static/js/2.f8eaa150.chunk.js.LICENSE.txt": "/R-Rach/r-rach-portfolio/static/js/2.f8eaa150.chunk.js.LICENSE.txt",
-    "static/media/logo.7b457a23.svg": "/R-Rach/r-rach-portfolio/static/media/logo.7b457a23.svg"
+    "main.css": "/r-rach-portfolio/static/css/main.87a32c40.chunk.css",
+    "main.js": "/r-rach-portfolio/static/js/main.88384c2e.chunk.js",
+    "main.js.map": "/r-rach-portfolio/static/js/main.88384c2e.chunk.js.map",
+    "runtime-main.js": "/r-rach-portfolio/static/js/runtime-main.053d2ff2.js",
+    "runtime-main.js.map": "/r-rach-portfolio/static/js/runtime-main.053d2ff2.js.map",
+    "static/js/2.f8eaa150.chunk.js": "/r-rach-portfolio/static/js/2.f8eaa150.chunk.js",
+    "static/js/2.f8eaa150.chunk.js.map": "/r-rach-portfolio/static/js/2.f8eaa150.chunk.js.map",
+    "static/js/3.0aeb825d.chunk.js": "/r-rach-portfolio/static/js/3.0aeb825d.chunk.js",
+    "static/js/3.0aeb825d.chunk.js.map": "/r-rach-portfolio/static/js/3.0aeb825d.chunk.js.map",
+    "index.html": "/r-rach-portfolio/index.html",
+    "static/css/main.87a32c40.chunk.css.map": "/r-rach-portfolio/static/css/main.87a32c40.chunk.css.map",
+    "static/js/2.f8eaa150.chunk.js.LICENSE.txt": "/r-rach-portfolio/static/js/2.f8eaa150.chunk.js.LICENSE.txt",
+    "static/media/logo.7b457a23.svg": "/r-rach-portfolio/static/media/logo.7b457a23.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b84065fb.js",
+    "static/js/runtime-main.053d2ff2.js",
     "static/js/2.f8eaa150.chunk.js",
     "static/css/main.87a32c40.chunk.css",
     "static/js/main.88384c2e.chunk.js"
